@@ -7,16 +7,16 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name: AllenXu
+  email: xulongzju@163.com
+  link: http://allenxl.github.io/
+  weibo: http://weibo.com/xulongzju
+  github: https://github.com/AllenXL
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: AllenXu's Blog 
+description: AllenXu's Blog
+url: http://allenxl.github.io/
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -25,12 +25,12 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-54767140-100
+  url: http://allenxl.github.io/
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: AllenXu-zh
 
 # 主题设置，自动激活某个标签
 active: 技术
