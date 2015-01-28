@@ -1,6 +1,0 @@
----
-layout: page
-title: hello-jekyll
----
-
-Hello jekyll!
