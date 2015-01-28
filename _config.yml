@@ -21,7 +21,7 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/blog_img.jpg
-favicon: http://pan.baidu.com/s/1hqrIA24
+favicon: /public/img/blog_img.jpg
 
 # google analytics 设置
 ga:
